@@ -1,6 +1,6 @@
 # ✈️ Flight Price Prediction using Machine Learning
 
-An end-to-end Machine Learning project that predicts flight prices using key features like airline, source, destination, stops, duration, and more. This project includes data preprocessing, model building (XGBoost, Random Forest, Decision Tree, Linear Regression), performance comparison, and a deployed Streamlit web app for live predictions.
+An end-to-end Machine Learning project that predicts flight prices using key features like airline, source, destination, stops,  and more. This project includes data preprocessing, model building (XGBoost, Random Forest, Decision Tree, Linear Regression), performance comparison, and a deployed Streamlit web app for live predictions.
 
 ---
 
@@ -11,7 +11,8 @@ An end-to-end Machine Learning project that predicts flight prices using key fea
 - Applied one-hot and ordinal encoding  
 - Trained and evaluated multiple ML models  
 - Built and deployed a user-friendly **Streamlit** app  
-- Used `joblib` to save the full pipeline for fast inference  
+- Used `joblib` to save
+
 
 ---
 
